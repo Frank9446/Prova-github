@@ -1,2 +1,3 @@
 # Prova-github
-Sto seguendo  un corso per creare una pagina
+
+Sto seguendo un corso dove spiegano anche come utilizzare github
